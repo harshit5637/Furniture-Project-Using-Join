@@ -1,0 +1,14 @@
+C:\Users\hmish\Documents\TrainingTECHRBM\Furniture_Project\FurnitureData\bin\Debug\net8.0\FurnitureData.deps.json
+C:\Users\hmish\Documents\TrainingTECHRBM\Furniture_Project\FurnitureData\bin\Debug\net8.0\FurnitureData.runtimeconfig.json
+C:\Users\hmish\Documents\TrainingTECHRBM\Furniture_Project\FurnitureData\bin\Debug\net8.0\FurnitureData.dll
+C:\Users\hmish\Documents\TrainingTECHRBM\Furniture_Project\FurnitureData\bin\Debug\net8.0\FurnitureData.pdb
+C:\Users\hmish\Documents\TrainingTECHRBM\Furniture_Project\FurnitureData\obj\Debug\net8.0\FurnitureData.csproj.AssemblyReference.cache
+C:\Users\hmish\Documents\TrainingTECHRBM\Furniture_Project\FurnitureData\obj\Debug\net8.0\FurnitureData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmish\Documents\TrainingTECHRBM\Furniture_Project\FurnitureData\obj\Debug\net8.0\FurnitureData.AssemblyInfoInputs.cache
+C:\Users\hmish\Documents\TrainingTECHRBM\Furniture_Project\FurnitureData\obj\Debug\net8.0\FurnitureData.AssemblyInfo.cs
+C:\Users\hmish\Documents\TrainingTECHRBM\Furniture_Project\FurnitureData\obj\Debug\net8.0\FurnitureData.csproj.CoreCompileInputs.cache
+C:\Users\hmish\Documents\TrainingTECHRBM\Furniture_Project\FurnitureData\obj\Debug\net8.0\FurnitureData.dll
+C:\Users\hmish\Documents\TrainingTECHRBM\Furniture_Project\FurnitureData\obj\Debug\net8.0\refint\FurnitureData.dll
+C:\Users\hmish\Documents\TrainingTECHRBM\Furniture_Project\FurnitureData\obj\Debug\net8.0\FurnitureData.pdb
+C:\Users\hmish\Documents\TrainingTECHRBM\Furniture_Project\FurnitureData\obj\Debug\net8.0\FurnitureData.genruntimeconfig.cache
+C:\Users\hmish\Documents\TrainingTECHRBM\Furniture_Project\FurnitureData\obj\Debug\net8.0\ref\FurnitureData.dll
